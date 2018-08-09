@@ -1,5 +1,5 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Con pulsión
+description:      "Blog de Eduardo Febres"
 logo:             logo.png
 disqus_shortname: hmfaysal
 share:            true
@@ -7,22 +7,22 @@ dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  /Notepad
+url:        	  /conpulsion
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Eduardo Febres
   avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Profesor, escritor, coordinador de proyectos editoriales y multimedia
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
+  twitter:        eduardofebres
+  facebook:       eduardofebres
+  github:         conpulsion 
   instagram:      hmfaysal
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
