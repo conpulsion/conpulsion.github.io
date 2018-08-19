@@ -1,4 +1,4 @@
-title:            Blog de Eduardo Febres
+title:            
 description:      "Con pulsión"
 logo:             logo3.png
 disqus_shortname: hmfaysal
@@ -39,7 +39,7 @@ links:
   - title: destacados
     url: /categories
   - title: ¿qué es esto?
-    url: /febres
+    url: /febres.md
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Caracas
