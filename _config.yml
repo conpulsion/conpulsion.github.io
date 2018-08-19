@@ -36,7 +36,7 @@ links:
     url: /
     external: false
     icon: home
-  - title: destacados
+  - title: categorías
     url: /categories
   - title: ¿qué es esto?
     url: /febres.md
