@@ -7,7 +7,7 @@ categories: personal
 tags: 
   - blogging
   - jekyll
-imagefeature: "website-speed.jpg"
+imagefeature: "71b5524fc14e07b590389ed2109641ab.jpg"
 imagecredit: spreadeffect.com
 imagecreditlink: "http://www.spreadeffect.com/blog/improve-website-speed/"
 comments: false
