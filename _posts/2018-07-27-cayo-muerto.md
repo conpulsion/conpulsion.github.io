@@ -9,7 +9,7 @@ categories:
   - purgaterapeutica
   - historiasviaje
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zlu1jTAZnbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 De memoria conté, mientras bajaba a la panadería quince, entre psiquiatras y psicoanalistas (o psiquiatras-psicoanalistas) incluyendo una que según supe después no era ni una ni otra sino *coach*. Y otra que, después de ver el lugar donde atendía (un lugar con una alfombra que ocupaba todo el espacio de unos diez o más metros cuadrados, unas campanitas y unas esencias aromáticas) inventé una excusa y me fui sin la primera sesión.
 
