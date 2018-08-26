@@ -6,9 +6,9 @@ mathjax: false
 featured: true
 comments: false
 categories: 
-  - literatura
-  - historiasviaje
-  - purgaterapeutica   
+  - Literatura
+  - Historias de viaje
+  - Purga terapéutica 
 ---
 ![cover-image](https://steemitimages.com/0x0/https://cdn.steemitimages.com/DQmePcXtpQpd8zg1eyQEcbqDM8gLP8d7iJyaCQzPzY5rYJx/ext.jpg)
 El Ministerio de Cultura me puso en una situación donde tuve que hacer pública una práctica privada que me produce pudor y vergüenza, para no hablar del círculo obsesivo que un poco empiezo a relatar aquí: ser crítico de (tachado) mis propios textos publicados.
