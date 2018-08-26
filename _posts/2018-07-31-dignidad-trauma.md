@@ -6,8 +6,7 @@ mathjax: false
 featured: true
 comments: false
 categories: 
-  - literatura
-  - Historias de viaje
+  - Literatura
   - Purga terapéutica 
 ---
 ![cover-image](https://steemitimages.com/0x0/https://www.maspormas.com/img/2016/04/naked-lunchssssss-768x432.jpg)
