@@ -17,7 +17,7 @@ Los pormenores pueden ser entretenidos pero innecesarios ahora. Basta decir que 
 
 El día de la presentación de mi [segundo libro](http://www.libreroonline.com/venezuela/libros/100675/febres-eduardo/gasolina.html) había bastante público pero no había presentador. Entonces resolví lo que me permitía no atravesar el epítome de la incomodidad de presentarme a mí mismo, ni dejar mal al bienintencionado (o discilplinado, da lo mismo) público cubano que ofrecía su tiempo y su atención a un autor y libro absolutamente desconocidos: presentarme con otro nombre, y hacerme pasar por un crítico del libro del autor que lamenteblemente no pudo acompañarnos hoy.
 
-Lo que dije sobre el libro, creo, me lo copié de [una](http://laculturanuestra.com/un-paranoico-es-una-persona-que-sabe-lo-que-esta-pasando/) de las dos críticas que leí de él: algo sobre el desamparo finisecular de quienes (según ese crítico[^>]) crecimos a la sombra del zeitgeist neoliberal.
+Lo que dije sobre el libro, creo, me lo copié de [una](http://laculturanuestra.com/un-paranoico-es-una-persona-que-sabe-lo-que-esta-pasando/) de las dos críticas que leí de él: algo sobre el desamparo finisecular de quienes (según ese crítico[1]) crecimos a la sombra del zeitgeist neoliberal.
 
 Que en verdad no era lo que yo pensaba del libro, ni había pensado mucho sobre el libro, más allá de que por fin salí de esa vaina: era fundamentalmente un artificio en función de la puesta en escena y del personaje que asumí.
 
@@ -25,10 +25,10 @@ Eso fue hace cuatro años. Hoy sí me gustaría comentar algo, no sobre ese libr
 
 En dos palabras: lo que me diría a mí si volviera a comenzar o le diría a lo que felizmente estoy dejando de ser, un joven escritor.
 
-(continuará[^>>])
+(continuará[2])
 
 *La imagen fue la primera que salió cuando busqué en Google "gasolina eduardo febres" pero está del carajo, gracias*
 
- [^>] Pana mío, por supuesto, igual que el otro, aunque honestamente también creo que buenos lectores.
-[^>>] En el próximo post:
+[1] Pana mío, por supuesto, igual que el otro, aunque honestamente también creo que buenos lectores.
+[2] En el próximo post:
 > Fundamentalmente es lo que cierta tradición rioplatense ha descrito y ejecutado con mucha claridad: Walsh y Borges, orgánicamente, en la totalidad de su obra; Piglia, como lector de esas obras; y Saer en el texto más sintético y completo que he leído sobre el tema (gracias a Villoro), y que paso a citar:
