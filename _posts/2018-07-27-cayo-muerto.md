@@ -14,7 +14,7 @@ De memoria conté, mientras bajaba a la panadería quince, entre psiquiatras y p
 
 Algunos han sido de una sesión, otros de meses, y un par han pasado el año.
 
-No sé si con alguno o alguna de ellas* hablé antes de la plegaria: una relación con las fuerzas sobrenaturales (Dios en parte, algunas entidades no tan mayores en el grado íntimo, y el trauma utópico seguramente por encima de todo lo demás, como con todo.) Decía: una relación con las fuerzas sobrenaturales establecida a partir de la certeza de que algo terrible, insoportable, abismal, horroso, está a punto de pasar siempre. Cuando digo siempre es todos los días del año, con intervalos variables según el grado de ocio o ansiedad; cada minuto, cada segundo, cada hora. O cada cuatro días. O no me doy mucho cuenta. Variables, pues.
+No sé si con alguno o alguna de ellas° hablé antes de la plegaria: una relación con las fuerzas sobrenaturales (Dios en parte, algunas entidades no tan mayores en el grado íntimo, y el trauma utópico seguramente por encima de todo lo demás, como con todo.) Decía: una relación con las fuerzas sobrenaturales establecida a partir de la certeza de que algo terrible, insoportable, abismal, horroso, está a punto de pasar siempre. Cuando digo siempre es todos los días del año, con intervalos variables según el grado de ocio o ansiedad; cada minuto, cada segundo, cada hora. O cada cuatro días. O no me doy mucho cuenta. Variables, pues.
 
 En todo caso, Blanca es la primera que me dice con todas sus letras: “nunca había visto tantos síntomas de una neurosis obsesiva en una misma persona”.
 
@@ -26,6 +26,6 @@ O más precisamente en *ese* viaje: un viaje de bodas, que era entre varios, per
 
 No voy a enumerar esas posibilidades de muerte o catástrofe (Venezuela, 2018, piénsalo), solo comentar que cuando caí en cuenta del nombre del cayo, no pude evitar imaginarme la inevitabilidad del chiste en los universos paralelos donde ocurre la desgracia y alguien se da cuenta de que puede decir Cayó Muerto.
 
-* ¿Y si una de las taras estructurales del deseo colonial tiene que ver con que en español, el género gramatical es particularmente excluyente?, es una pregunta que uno se hace. Pero en este caso solo me interesaba recalcar que algunas han sido mujeres, de hecho, la mayoría.
+°¿Y si una de las taras estructurales del deseo colonial tiene que ver con que en español, el género gramatical es particularmente excluyente?, es una pregunta que uno se hace. Pero en este caso solo me interesaba recalcar que algunas han sido mujeres, de hecho, la mayoría.
 
 *El video fue el primero que encontré pero me encantó la música. Se llaman Vector Dragonfly.*
