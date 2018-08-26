@@ -30,5 +30,6 @@ En dos palabras: lo que me diría a mí si volviera a comenzar o le diría a lo 
 *La imagen fue la primera que salió cuando busqué en Google "gasolina eduardo febres" pero está del carajo, gracias*
 
 ° Pana mío, por supuesto, igual que el otro, aunque honestamente también creo que buenos lectores.
+
 °° En el próximo post:
 > Fundamentalmente es lo que cierta tradición rioplatense ha descrito y ejecutado con mucha claridad: Walsh y Borges, orgánicamente, en la totalidad de su obra; Piglia, como lector de esas obras; y Saer en el texto más sintético y completo que he leído sobre el tema (gracias a Villoro), y que paso a citar:
