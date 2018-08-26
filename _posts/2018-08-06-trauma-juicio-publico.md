@@ -11,7 +11,7 @@ categories:
 tags: jekyll
 ---
 
-![imagen de dominio público](https://www.lto.de/fileadmin/_processed_/b/f/csm_Robert_Francois_Damiens_60a837560d.jpg)
+![cover-image](https://www.lto.de/fileadmin/_processed_/b/f/csm_Robert_Francois_Damiens_60a837560d.jpg)
 
 Estuve buscándole otro nombre pero no se me ocurre uno mejor. Es un efecto que adquiere el texto que tú estás escribiendo cuando dices, piensas, sabes: esto lo puede leer cualquiera. Y te pones en el lugar del lector más (palabra incomprensible en el borrador), escéptico y despiadado que conoces -que desde luego no es él o ella, sino una imagen mucho más perversa que tú creaste.
 
