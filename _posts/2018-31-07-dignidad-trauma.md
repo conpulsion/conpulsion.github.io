@@ -1,3 +1,4 @@
+---
 layout: post
 published: true
 title: La dignidad del trauma (o para un ex joven escritor parte dos)
