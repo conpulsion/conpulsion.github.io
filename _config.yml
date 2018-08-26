@@ -47,8 +47,6 @@ links:
     icon: home
   - title: categorías
     url: /categories
-  - title: ¿qué es esto?
-    url: /febres.md
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Caracas
