@@ -127,8 +127,8 @@ prose:
               value: casovenezuela
             - name: "Blogs"
               value: blogs
-            - name: "Futuro"
-              value: futuro
+            - name: "Familia"
+              value: familia
             - name: "Purga terapéutica"
               value: purgaterapeutica
           alterable: true
