@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Cayó Muerto
+title: Para un joven escritor
 mathjax: false
 featured: true
 comments: false
