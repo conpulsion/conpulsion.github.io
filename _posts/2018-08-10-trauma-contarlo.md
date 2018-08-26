@@ -9,7 +9,7 @@ categories:
     - Literatura
     - Futuro
 ---
-[cover-image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mayan_Zodiac_Circle.jpg/600px-Mayan_Zodiac_Circle.jpg)
+![cover-image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mayan_Zodiac_Circle.jpg/600px-Mayan_Zodiac_Circle.jpg)
 
 (trece líneas tachadas después) *Francamente no sé. Francamente no puedo*. Fórmulas para quitarse un poco el colesterol mental, anímico, espiritual. Un remedio de uso no tan corriente (creo) como el *alguien debería*, que da la ilusión de alargarle la vida al deseo.
 
