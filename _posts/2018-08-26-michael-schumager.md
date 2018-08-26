@@ -12,30 +12,19 @@ categories:
 
                           *Para El Tuki Ilustrado*
 
-´´Frente al motor de la pantalla
+Frente al motor de la pantalla  
+Michael Schumager llora en silencio  
+prisionero de guerra de su cuerpo  
+sin palabras ni movimiento
 
-Michael Schumager llora en silencio
-
-prisionero de guerra de su cuerpo
-
-sin palabras ni movimiento´´
-
-
-No llora por Valladolid,
-
-no llora por Milán,
-
-no llora por Nápoli
-
-ni por la Iglesia de su infancia:
-
-llora que el #DecimosBastaYa
-
-de su llanto silencioso
-
-no le sirve para irse como John McCain
-
-del Vietnam de su nombre
+No llora por Valladolid,  
+no llora por Milán,  
+no llora por Nápoli  
+ni por la Iglesia de su infancia:  
+llora que el #DecimosBastaYa  
+de su llanto silencioso  
+no le sirve para irse como John McCain  
+del Vietnam de su nombre  
 
 
 A veces quisiera infiltrarse
