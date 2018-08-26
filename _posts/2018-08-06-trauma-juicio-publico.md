@@ -7,7 +7,7 @@ featured: true
 comments: false
 headline: Making blogging easier for masses
 categories: 
-  - publicar
+  - Literatura
 tags: jekyll
 ---
 
