@@ -12,13 +12,13 @@ categories:
 
                           *Para El Tuki Ilustrado*
 
-Frente al motor de la pantalla
+´´Frente al motor de la pantalla
 
 Michael Schumager llora en silencio
 
 prisionero de guerra de su cuerpo
 
-sin palabras ni movimiento
+sin palabras ni movimiento´´
 
 
 No llora por Valladolid,
