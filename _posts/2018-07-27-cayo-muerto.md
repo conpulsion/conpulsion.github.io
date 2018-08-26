@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Mi abuelo alcohólico en ciencia ficción
+title: Cayó Muerto
 mathjax: false
 featured: true
 comments: false
@@ -9,7 +9,6 @@ categories:
   - purgaterapeutica
   - historiasviaje
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 De memoria conté, mientras bajaba a la panadería quince, entre psiquiatras y psicoanalistas (o psiquiatras-psicoanalistas) incluyendo una que según supe después no era ni una ni otra sino *coach*. Y otra que, después de ver el lugar donde atendía (un lugar con una alfombra que ocupaba todo el espacio de unos diez o más metros cuadrados, unas campanitas y unas esencias aromáticas) inventé una excusa y me fui sin la primera sesión.
 
@@ -27,6 +26,6 @@ O más precisamente en *ese* viaje: un viaje de bodas, que era entre varios, per
 
 No voy a enumerar esas posibilidades de muerte o catástrofe (Venezuela, 2018, piénsalo), solo comentar que cuando caí en cuenta del nombre del cayo, no pude evitar imaginarme la inevitabilidad del chiste en los universos paralelos donde ocurre la desgracia y alguien se da cuenta de que puede decir Cayó Muerto.
 
-*¿Y si una de las taras estructurales del deseo colonial tiene que ver con que en español, el género gramatical es particularmente excluyente?, es una pregunta que uno se hace. Pero en este caso solo me interesaba recalcar que algunas han sido mujeres, de hecho, la mayoría.
+* ¿Y si una de las taras estructurales del deseo colonial tiene que ver con que en español, el género gramatical es particularmente excluyente?, es una pregunta que uno se hace. Pero en este caso solo me interesaba recalcar que algunas han sido mujeres, de hecho, la mayoría.
 
 *El video fue el primero que encontré pero me encantó la música. Se llaman Vector Dragonfly.*
