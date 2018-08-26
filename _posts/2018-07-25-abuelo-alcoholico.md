@@ -15,7 +15,7 @@ No sé cuánto tiene de autobiográfico, en verdad. Cuando empecé (ayer) a nota
 
 En todo caso asumí que a partir de traumas o afectos o mitos familiares parecidos, él o ellos, desarrollaron una narración totalmente emancipada de la dimensión testimonial y verificable. Una narración que por esa vía resulta, digamos, después de varias tachaduras, más digna, más divertida, y capaz (pisando la chola del juicio negativo o el agravio comparativo), quizá, finalmente, más honesta.
 
-Yo cuando quise contar la historia de mi abuelo alcohólico, intenté fundamentalmente decir la [verdad] (http://la-26.blogspot.com/2011/10/ultimo-cordero.html). Que en las recurrencias obsesivas del azar, parece a veces ficción, o un cliché de la ficción.
+Yo cuando quise contar la historia de mi abuelo alcohólico, intenté fundamentalmente decir la [verdad] (!http://la-26.blogspot.com/2011/10/ultimo-cordero.html). Que en las recurrencias obsesivas del azar, parece a veces ficción, o un cliché de la ficción.
 
 ![imagen de mi abuelo Febres](https://steemitimages.com/0x0/http://2.bp.blogspot.com/-WrDxZ6AdpX4/Tqc6jYQtGKI/AAAAAAAAAxA/tvHfyRWUblk/s1600/P1030104.JPG)
 
