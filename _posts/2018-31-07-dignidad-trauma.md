@@ -7,10 +7,10 @@ featured: true
 comments: false
 categories: 
   - literatura
-  - historiasviaje
-  - purgaterapeutica   
+  - Historias de viaje
+  - Purga terapéutica 
 ---
-[cover-image](https://steemitimages.com/0x0/https://www.maspormas.com/img/2016/04/naked-lunchssssss-768x432.jpg)
+![cover-image](https://steemitimages.com/0x0/https://www.maspormas.com/img/2016/04/naked-lunchssssss-768x432.jpg)
 
 Lo que fundalmente hay que decir es lo mismo que cierta tradición rioplatense ha descrito y ejecutado con mucha claridad; Walsh y Borges en la totalidad orgánica de su obra; Piglia, como lector de esas obras, y Saer en el texto más sintético y completo que le heído al respecto y que paso a citar:
 
