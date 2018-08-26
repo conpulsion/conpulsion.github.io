@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Para un joven escritor
+title: Para un ex joven escritor
 mathjax: false
 featured: true
 comments: false
