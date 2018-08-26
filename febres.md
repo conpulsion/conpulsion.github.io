@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /febres/index.html
 title:Con pulsión
 tags:
 image:
