@@ -1,5 +1,5 @@
-title:            
-description:      "Con pulsión"
+title:            "Con pulsión"
+description:      Blog de Eduardo Febres
 logo: avatar.png
 disqus_shortname: hmfaysal
 share:            true
@@ -27,6 +27,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        conpulsi0n
   github:         conpulsion 
+  facebook:       conpulsi0n
   # For Google Authorship https://plus.google.com/authorship
 
 # Analytics and webmaster tools stuff goes here
